@@ -1,0 +1,88 @@
+.container {
+    width: 700px;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    background-color: #666f74;
+    border-radius: 10px;
+    padding-left: 10px;
+    height: 200px;
+    border: 3px solid #404040;
+}
+
+.tag-kontak {
+    background-color: #666f74;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 5px solid #404040;
+}
+
+#kontak {
+    text-align: center;
+    color: #404040;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.info {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.info p {
+    font-size: 20px;
+}
+
+ li a{
+    margin: 0 1vh;
+}
+
+#sosmed {
+    margin: 0 auto;
+    margin-left: 45%;
+}
+
+.IG {
+    color: #8e98a2;
+}
+
+li {
+    list-style: none;
+}
+
+.mail {
+    position: fixed;
+}
+
+#icon {
+    display: flex;
+    background-color: rgba(53, 71, 73, 0.0);
+}
+
+li a :hover {
+    border-bottom: 3px solid #404040;
+    padding-bottom: 5px;
+    padding-top: 3px;
+}
+
+#user-ig {
+    text-decoration: none;
+    color: black;
+}
+
+#user-ig :hover {
+    text-decoration: underline;
+    color: #404040;
+}
+
+#no-wa {
+    text-decoration: none;
+    color: black;
+}
+
+#no-wa :hover {
+    text-decoration: underline;
+    color: #404040;
+}
